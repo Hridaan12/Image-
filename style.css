@@ -1,0 +1,16 @@
+body{
+color: blue;
+background-color: lime;
+}
+h3{
+    width: 80%;
+    font-size: 100px;
+}
+.name_objects, #result_objectname,#result_objectaccuracy{
+    color:yellow;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 350px;
+}
